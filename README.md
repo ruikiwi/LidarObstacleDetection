@@ -18,5 +18,5 @@ Main components of this section:
 - Normal Kalman Filter (not used in the project)
 - Extended Kalman Filter (not used in the project)
 - Unscented Kalman Filter (used in the project)
-- 
+  
 ![UKF](https://github.com/user-attachments/assets/a2b8f13f-f61f-4b5e-8c9e-98297d7d6643)
