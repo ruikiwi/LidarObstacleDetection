@@ -1,4 +1,4 @@
-# Unscented_Kalman_Filter
+# Unscented Kalman Filter
 
 <img src="media/ukf_highway_tracked.gif" width="700" height="400" />
 
