@@ -1,6 +1,4 @@
 # Unscented Kalman Filter
-## Overview 
-![image](https://github.com/user-attachments/assets/5c641796-f89e-43bb-b4e8-c08946a91581)
 
 In this project I implemented an Unscented Kalman Filter to estimate the state of multiple cars on a highway using noisy lidar and radar measurements, obtaining RMSE values that are lower that the tolerance. 
 
